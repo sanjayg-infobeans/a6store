@@ -14,8 +14,8 @@ export class RecipeService {
             'First Recipe Description', 
             'http://images.media-allrecipes.com/userphotos/960x960/3758842.jpg',
             [
-                new Ingredient('Meat', 1),
-                new Ingredient('French Fries', 11)
+                new Ingredient('Pepper', 1),
+                new Ingredient('Onion', 11)
             ]),
         new Recipe('Second Recipe', 
             'Second Recipe Description', 
